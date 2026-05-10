@@ -8,6 +8,7 @@ use Illuminate\Support\Str;
 
 /**
  * @extends Factory<Category>
+ * hola
  */
 class CategoryFactory extends Factory
 {
